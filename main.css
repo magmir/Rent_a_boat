@@ -1,0 +1,29 @@
+body{
+padding-top: 70px;}
+
+.feature .glyphicon{
+font-size:32px;
+margin-top:30px;
+}
+
+.foot, .who, .links, .stay{
+background-color:#39505C;
+margin-top:20px;
+color:#DAD7D7;
+padding-bottom:5px;
+}
+
+.foot{
+padding-left: 15px;
+}
+
+.rent{
+color: white;
+background-color: #1B6D85;
+border-color: #1B6D85;}
+
+.top{
+font-family:'Droid Sans', sans-serif;
+font-size:200%;
+font-weight: bold;
+}
